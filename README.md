@@ -27,7 +27,7 @@ After the dataset has been prepared, we could run the follow command to train.
   volume={},  
   number={},  
   pages={1-14},  
-  doi=[{10.1109/TMM.2023.3349075}](https://ieeexplore.ieee.org/document/10379137)}  
+  doi={[10.1109/TMM.2023.3349075]}(https://ieeexplore.ieee.org/document/10379137)}  
 
 
 ### Acknowledgements
