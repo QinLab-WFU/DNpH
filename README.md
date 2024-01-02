@@ -1,11 +1,6 @@
 # Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval [Paper](https://ieeexplore.ieee.org/document/10379137)
 This paper is accepted for publication with TMM.
-## Dependencies
 
-- pytorch 1.12.1
-- sklearn
-- tqdm
-- pillow
 
 ## Training
 
