@@ -24,17 +24,17 @@ After the dataset has been prepared, we could run the follow command to train.
 
 
 ### Citation
-@ARTICLE{10379137,
-  author={Qin, Qibing and Huo, Yadong and Huang, Lei and Dai, Jiangyan and Zhang, Huihui and Zhang, Wenfeng},
+@ARTICLE{10379137, 
+  author={Qin, Qibing and Huo, Yadong and Huang, Lei and Dai, Jiangyan and Zhang, Huihui and Zhang, Wenfeng}, 
   journal={IEEE Transactions on Multimedia}, 
   title={Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TMM.2023.3349075}}
+  year={2023}, 
+  volume={}, 
+  number={}, 
+  pages={1-14}, 
+  doi={10.1109/TMM.2023.3349075}} 
 
 
 ### Acknowledgements
-[QSMI](https://github.com/passalis/qsmi)
+[QSMI](https://github.com/passalis/qsmi) 
 [DCHMT](https://github.com/kalenforn/DCHMT)
