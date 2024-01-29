@@ -18,7 +18,7 @@ After the dataset has been prepared, we could run the follow command to train.
 > python main.py --is-train --dataset coco --caption-file caption.mat --index-file index.mat --label-file label.mat --lr 0.001 --output-dim 64 --save-dir ./result/coco/64 --clip-path ./ViT-B-32.pt --batch-size 128
 
 
-### Citation
+## Citation
 @ARTICLE{10379137,   
   author={Qin, Qibing and Huo, Yadong and Huang, Lei and Dai, Jiangyan and Zhang, Huihui and Zhang, Wenfeng},  
   journal={IEEE Transactions on Multimedia},  
@@ -30,6 +30,6 @@ After the dataset has been prepared, we could run the follow command to train.
   doi={[10.1109/TMM.2023.3349075](https://ieeexplore.ieee.org/document/10379137)}}  
 
 
-### Acknowledgements
+## Acknowledgements
 [QSMI](https://github.com/passalis/qsmi)  
 [DCHMT](https://github.com/kalenforn/DCHMT)
