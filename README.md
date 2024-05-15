@@ -23,10 +23,10 @@ After the dataset has been prepared, we could run the follow command to train.
   author={Qin, Qibing and Huo, Yadong and Huang, Lei and Dai, Jiangyan and Zhang, Huihui and Zhang, Wenfeng},  
   journal={IEEE Transactions on Multimedia},  
   title={Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval},  
-  year={2023},  
-  volume={},  
+  year={2024},  
+  volume={26},  
   number={},  
-  pages={1-14},  
+  pages={6361-6374},  
   doi={[10.1109/TMM.2023.3349075](https://ieeexplore.ieee.org/document/10379137)}}  
 
 
